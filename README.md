@@ -58,7 +58,9 @@ Page Views: Login,
     * "jsonwebtoken": "^8.5.1",
     * "mongoose": "^5.10.2",
     * "node-encoder": "^1.0.1"
-    
+ 
+Mongo Db is used for persisting data
+
 ```
  "devDependencies": {
     "@babel/cli": "^7.10.5",

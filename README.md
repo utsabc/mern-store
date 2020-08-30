@@ -59,9 +59,6 @@ Page Views: Login,
     * "mongoose": "^5.10.2",
     * "node-encoder": "^1.0.1"
     
-  
-## Run Locally
-Install the dependencies using npm also add the following dev dependencies
 ```
  "devDependencies": {
     "@babel/cli": "^7.10.5",
@@ -71,6 +68,7 @@ Install the dependencies using npm also add the following dev dependencies
     "nodemon": "^2.0.4"
     }
  ```
+ 
 ### Clone repo
 
 ```

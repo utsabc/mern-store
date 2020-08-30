@@ -23,7 +23,7 @@ const addToCart = (productId, qty,color,email) => async (dispatch) => {
 
         /*get the data from mongo product id and qty*/
         const cartData = await axios.get("/api/saveCart/"+email);
-        alert("Product added to cart Successfully");
+        (cartData.data)?alert("Product added to cart Successfully"):console.log(cartData);
         cartData.data.forEach(async element => {
             const {data} = await axios.get("/api/products/"+element.productid);
             const qty = element.count;

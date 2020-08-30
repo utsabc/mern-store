@@ -19,7 +19,7 @@ try{
     res.send(result);
 
 }catch(error){
-    res.send({msg:error.message});
+    res.status(500).send({msg:error.message});
 }   
    
 })

@@ -74,7 +74,7 @@ Mongo Db is used for persisting data
 ### Clone repo
 
 ```
-$ git clone git@github.com:basir/node-react-ecommerce.git
+$ git clone git@github.com:utsabc/mern-store.git
 $ cd mern-store
 ```
  

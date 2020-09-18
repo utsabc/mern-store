@@ -10,7 +10,7 @@ import ReactGa from 'react-ga';
 function ProductScreen (props) {
     
     const [qty, setQty] = useState(1);
-    const [color, setColor] = useState(1);
+    const [color, setColor] = useState("White");
     const productDetails = useSelector(state => state.productDetails);
     const {product,loading,error} = productDetails;
    

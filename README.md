@@ -23,7 +23,7 @@ Note:For saving data to cart the user has to be logged in
 A side bar is present to catagorize the products, functionality not yet implemented
 
 ### Bugs
-- Default color from drop down select for product is selected as numeric unless a color is selected by user
+- D̵e̵f̵a̵u̵l̵t̵ ̵c̵o̵l̵o̵r̵ ̵f̵r̵o̵m̵ ̵d̵r̵o̵p̵ ̵d̵o̵w̵n̵ ̵s̵e̵l̵e̵c̵t̵ ̵f̵o̵r̵ ̵p̵r̵o̵d̵u̵c̵t̵ ̵i̵s̵ ̵s̵e̵l̵e̵c̵t̵e̵d̵ ̵a̵s̵ ̵n̵u̵m̵e̵r̵i̵c̵ ̵u̵n̵l̵e̵s̵s̵ ̵a̵ ̵c̵o̵l̵o̵r̵ ̵i̵s̵ ̵s̵e̵l̵e̵c̵t̵e̵d̵ ̵b̵y̵ ̵u̵s̵e̵r̵  (solved)
 - After login the user need to move to any other page to refresh dom elements to view user name on top/after log out the user needs to move to other page to refresh the dom elemts.
 
 

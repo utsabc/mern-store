@@ -39,37 +39,10 @@ Page Views: Login,
               On Checkout Action
 
 ## FrameWorks and Runtime
-#### Dependencies
-* React js
-  * "axios": "^0.20.0",
-  * "js-cookie": "^2.2.1",
-  * "react": "^16.13.1",
-  * "react-dom": "^16.13.1",
-  * "react-ga": "^3.1.2",
-  * "react-redux": "^7.2.1",
-  * "react-router-dom": "^5.2.0",
-  * "react-scripts": "3.4.3",
-  * "redux": "^4.0.5",
-  * "redux-thunk": "^2.3.0"
-* Node js 
-    * "body-parser": "^1.19.0",
-    * "dotenv": "^8.2.0",
-    * "express": "^4.17.1",
-    * "jsonwebtoken": "^8.5.1",
-    * "mongoose": "^5.10.2",
-    * "node-encoder": "^1.0.1"
- 
+React, Node
+
 Mongo Db is used for persisting data
 
-```
- "devDependencies": {
-    "@babel/cli": "^7.10.5",
-    "@babel/core": "^7.11.4",
-    "@babel/node": "^7.10.5",
-    "@babel/preset-env": "^7.11.0",
-    "nodemon": "^2.0.4"
-    }
- ```
  
 ### Clone repo
 
